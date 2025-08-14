@@ -26,15 +26,26 @@
   - Attended TechCrunch Disrupt and visited tech companies
 <br>
 
-## 🏆 Awards
+## 🏆 Honors and Awards
+
+- 2024
+  - **Scholarship for Outstanding SW Talent (Type A)** _(Awarded in Nov 2024)_
 
 - 2023
   - **1st Place**, `5th PATH HACK`, `President of the Korea Institute of Startup & Entrepreneurship Development(KISED) Award`🎖️
   - **2nd Place**, `1st SW Innovation Startup Hackathon`, `President of PNU Industry-University Cooperation Foundation Award`
   - **3rd Place**, `DX CAMP (Startup Bootcamp)`
+
+- 2022
+  - **Full Academic Excellence Scholarship** _(Fall Semester)_
 <br>
 
 ## 🚩 Activities
+
+- **Teaching Assistant (TA) for "AI Programming"** _(Sep 2024 – Dec 2024)_
+  - Enhanced student understanding by creating weekly video walkthroughs for assignments and providing detailed, constructive feedback on their work.
+  - Provided comprehensive support by hosting weekly office hours for debugging and facilitating live Q&A sessions during lectures.
+  - Collaborated with the professor on overall course management, including lecture preparation and material organization.
 
 - **Project Club "UNTOC", Pusan National University** _(Mar 2022 – Dec 2024)_
   - President (Jan 2023 – Dec 2023)
@@ -46,7 +57,7 @@
 ## 📜 Certificates & Qualifications
 
 - Network Advisor 2 _(Jul 2024)_
-- Engineer Information Processing _(Jun 2023)_
+- Engineer Information Processing _(Jun 2025)_
 <br>
 
 ## 🛠️ Tech Stacks

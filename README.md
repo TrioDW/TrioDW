@@ -9,7 +9,7 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <br>
   <a href="mailto:kdu5233@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdu5233@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@TrioDW/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <a href="https://velog.io/@nozerose/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </p>
 <br>
 

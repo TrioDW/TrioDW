@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=DAEWOOK%20KIM&fontAlign=75&fontColor=ffffff&fontSize=50)
 
 
-# Contact Me
+## 🧑‍💻 Contact me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%EA%B9%80%EB%8C%80%EC%9A%B1-undefined-5a3ab2353/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,10 +9,47 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <br>
   <a href="mailto:kdu5233@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdu5233@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@TrioDW/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </p>
+<br>
 
+## 🎓 Education
 
-# Studying...
+- B.E. in Computer Science Engineering, Pusan National University _(Mar 2022 – Feb 2028 (Expected))_
+- High School Diploma, Yangsan Jeil High School (Mar 2018 – Feb 2021)
+<br>
+
+## ✈️ International Experience
+
+- **Awarded U.S. training for 5th PATH HACK** _(2023)_
+
+  - Attended TechCrunch Disrupt and visited tech companies
+<br>
+
+## 🏆 Awards
+
+- 2023
+  - **1st Place**, `5th PATH HACK`, `President of the Korea Institute of Startup & Entrepreneurship Development(KISED) Award`🎖️
+  - **2nd Place**, `1st SW Innovation Startup Hackathon`, `President of PNU Industry-University Cooperation Foundation Award`
+  - **3rd Place**, `DX CAMP (Startup Bootcamp)`
+<br>
+
+## 🚩 Activities
+
+- **Project Club "UNTOC", Pusan National University** _(Mar 2022 – Dec 2024)_
+  - President (Jan 2023 – Dec 2023)
+    - Established a structured operational framework for the club. (President in 2023)
+    - Implemented a weekly seminar system for progress sharing and collaborative Q&A.
+    - Fostered an organized and collaborative development environment.
+<br>
+
+## 📜 Certificates & Qualifications
+
+- Network Advisor 2 _(Jul 2024)_
+- Engineer Information Processing _(Jun 2023)_
+<br>
+
+## 🛠️ Tech Stacks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
@@ -34,10 +71,9 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 </p> 
 
-
-# Now I'm...
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrioDW&show_icons=true&theme=radical"/></a><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdu5233"/></a>
-</p>
+## 🏅 Stats
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=TrioDW&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdu5233"/>
+</div>
 

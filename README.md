@@ -28,13 +28,16 @@
 
 ## 🏆 Honors and Awards
 
+- 2025
+  - **Grand Prize**, `12th Korea SW Convergence Hackathon`, `Minister of Science and ICT Award`🎖️ [🔗](https://www.busan.com/view/busan/view.php?code=2025090213423781996)
+
 - 2024
   - **Scholarship for Outstanding SW Talent (Type A)** _(Awarded in Nov 2024)_
 
 - 2023
-  - **1st Place**, `5th PATH HACK`, `President of the Korea Institute of Startup & Entrepreneurship Development(KISED) Award`🎖️
-  - **2nd Place**, `1st SW Innovation Startup Hackathon`, `President of PNU Industry-University Cooperation Foundation Award`
-  - **3rd Place**, `DX CAMP (Startup Bootcamp)`
+  - **Grand Prize**, `5th PATH HACK`, `President of the Korea Institute of Startup & Entrepreneurship Development Award`🎖️ [🔗](https://his.pusan.ac.kr/bbs/cse/2609/1218268/artclView.do)
+  - **2nd Place**, `1st SW Innovation Startup Hackathon`, `President of Research and Business Development Foundation, PNU Award`
+  - **3rd Place**, `DX CAMP (Startup Bootcamp)` [🔗](https://www.btp.or.kr/webzine/CMS/WebzineMgr/view.do?year=2023&month=11&mCode=MN019&content_seq=9577411&category_seq=4)
 
 - 2022
   - **Full Academic Excellence Scholarship** _(Fall Semester)_
